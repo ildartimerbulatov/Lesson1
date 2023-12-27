@@ -1,0 +1,15 @@
+C:\Users\Ildar T\Desktop\Language1\Task7\bin\Debug\net6.0\Task7.exe
+C:\Users\Ildar T\Desktop\Language1\Task7\bin\Debug\net6.0\Task7.deps.json
+C:\Users\Ildar T\Desktop\Language1\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+C:\Users\Ildar T\Desktop\Language1\Task7\bin\Debug\net6.0\Task7.dll
+C:\Users\Ildar T\Desktop\Language1\Task7\bin\Debug\net6.0\Task7.pdb
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.dll
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\refint\Task7.dll
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.pdb
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+C:\Users\Ildar T\Desktop\Language1\Task7\obj\Debug\net6.0\ref\Task7.dll
